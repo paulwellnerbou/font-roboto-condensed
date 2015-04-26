@@ -9,3 +9,9 @@ If you use bower, you can install it using
 ```
 bower install --save paulwellnerbou/font-roboto-condensed
 ```
+
+After that, you will be able to use it including it in your web component.
+
+```
+<link rel="import" href="bower_components/font-roboto-condensed/roboto-condensed.html">
+```
