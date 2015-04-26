@@ -20,6 +20,6 @@ And assigning the font in your CSS styles.
 
 ```
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
   }
 ```
